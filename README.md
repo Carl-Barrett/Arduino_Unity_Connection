@@ -1,7 +1,8 @@
 # Arduino_Unity_Connection
 Several scenes in Unity showcase direct digital responses to inputs from various Arduino sensors.
 
-https://github.com/Carl-Barrett/Arduino_Unity_Connection/assets/115540803/5ae5017a-3c1c-4e8f-977c-32cdec1b9d97
+
+https://github.com/Carl-Barrett/Arduino_Unity_Connection/assets/115540803/7f6b3161-ff70-4f25-ad16-cc1fa0515105
 
 
 
